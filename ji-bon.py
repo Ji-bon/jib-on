@@ -64,7 +64,7 @@ logo = """
 \033[1;96mAuthor  \033[1;93m: \033[1;98mJi-bon
 \033[1;96mInstagram \033[1;93m: \033[1: jibon-khan
 \033[1;96mFacebook  \033[1;93m: \033[1: 360735161078428
-\033[1;96mGithub \033[1;93m: \033[1;92mhttps://github.com/Ji-bon/ji-bon
+\033[1;96mGithub \033[1;93m: \033[1;92mhttps://github.com/Ji-bon/jib-on
 \033[1;91m======================================="""
 
 def tik():
@@ -131,7 +131,7 @@ _'▀█║────────────▄▄─────────
 \033[1;96mAuthor  \033[1;93m: \033[1;92mJi-bon
 \033[1;96mInstagram \033[1;93m: \033[1;92mmd-jibon
 \033[1;96mFacebook  \033[1;93m: \033[1;92m jibon.khan
-\033[1;96mGithub \033[1;93m: \033[1;92mhttps://github.com/Ji-bon/ji-bon
+\033[1;96mGithub \033[1;93m: \033[1;92mhttps://github.com/Ji-bon/jib-on
 \033[1;91m======================================="""
 print " \x1b[1;93m============================================================="
 
